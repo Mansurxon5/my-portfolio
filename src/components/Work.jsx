@@ -41,7 +41,7 @@ const Work = () => {
             </div>
             <a
               href="https://uzbek-women.vercel.app/"
-              className="group lg:mt-[5px] relative overflow-hidden border-2 border-white/50 rounded-xl cursor-pointer"
+              className="group lg:mt-[17px] relative overflow-hidden border-2 border-white/50 rounded-xl cursor-pointer"
             >
               <div className="group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300 "></div>
               <img src={img2} alt="" />

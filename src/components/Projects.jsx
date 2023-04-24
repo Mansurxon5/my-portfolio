@@ -13,8 +13,8 @@ import img10 from "../assets/work4.png";
 
 export default function Projects() {
   return (
-    <div className="w-[100%] min-h-screen flex lg:mt-[-60px] lg:flex-row">
-      <div className=" w-full justify-center pb-10 gap-8 flex-wrap flex">
+    <div className="w-[100%] min-h-screen flex justify-center lg:mt-[-8.3%] lg:flex-row">
+      <div className=" w-[80%] justify-center pb-10 gap-8 flex-wrap flex">
         <motion.a
           variants={fadeIn("right", 0.2)}
           initial="hidden"
